@@ -1,0 +1,167 @@
+.selectimpresora{
+  background-color: black;
+  height: 48px;
+  float: right;
+  color: white;
+  font-size: 34px;
+  font-weight: bold;
+  font-family: Arial, "Comic Sans MS", sans-serif;
+  margin-top: 6px;
+  margin-right: 10px;  
+}
+
+.txtpeque{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: black;
+  height: 42px;
+  float: right;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, "Comic Sans MS", sans-serif;
+  margin-bottom: 0px;
+  margin-right: 1px;
+}
+
+.txtgrande{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: black;
+  height: 52px;
+  float: right;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Arial, "Comic Sans MS", sans-serif;
+  margin-bottom: 0px;
+  margin-right: 10px;
+}
+
+.botonesgeneral{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #ffb600;
+  height: 52px;
+  float: right;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 0px;
+  margin-right: 10px;
+  margin-top: 4px;
+}
+
+.botonesstatus{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #ff5400;
+  height: 42px;
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 0px;
+  margin-right: 1px;
+  margin-top: 4px;
+}
+
+.botonesteclado{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #dbb620;
+  height: 59px;
+  width: 59px;
+  float: left;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 2px;
+  margin-right: 2px;
+}
+
+.botonesgrupos{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #ff6f47;
+  height: 52px;
+  width: 260px;
+  float: right;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.botonesarticulos{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #ff9000;
+  height: 52px;
+  width: 260px;
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.botondetalle{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #d19c19;
+  height: 52px;
+  width: 260px;
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.botonesdetalles{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #d19c19;
+  height: 52px;
+  width: 260px;
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 20px;
+  margin-right: 16px;
+}
+
+.botondetallestatus{  
+  border: 2px solid #777;
+  border-radius: 10px;
+  outline: none;
+  background-color: #ed8609;
+  height: 52px;
+  float: right;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: "Comic Sans MS", sans-serif;
+  margin-bottom: 0px;
+  margin-right: 4px;
+}
+
+.paneles{
+  background-color: #ffeead;
+  border-radius: 10px;
+  border: 3px coral solid;
+}
+ 
